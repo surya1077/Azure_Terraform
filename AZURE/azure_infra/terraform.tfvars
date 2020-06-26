@@ -1,0 +1,11 @@
+subscription_id = "###############"
+client_id = "##############"
+client_secret = "############"
+tenant_id = "############"
+vnet_rsg = "vnet_rsg"
+location = ["westus", "eastus"]
+vnet_cidr = ""
+subnet_cidr = ""
+vm_size = ""
+user = ""
+password = ""
