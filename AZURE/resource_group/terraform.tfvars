@@ -1,7 +1,3 @@
-subscription_id = "###############"
-client_id = "##############"
-client_secret = "############"
-tenant_id = "############"
 seg1 = ""
 seg2 = ""
 seg3 = ""
