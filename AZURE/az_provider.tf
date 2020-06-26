@@ -1,3 +1,4 @@
+# Will download these Id's from keyvault using pipeline
 variable "arm_subscription_id" {
   description = "Subscription id used to connect the Azure Provider"
 }
